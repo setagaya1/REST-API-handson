@@ -27,4 +27,4 @@ REST-APIの[handson](https://github.com/raisetech-for-student/rest-api-handson)�
 ![image](https://github.com/setagaya1/REST-API-handson/assets/136170263/e26229be-237e-4ac7-af85-03c9214cc483)
 - hello-world-blog02リポジトリ（github）
 ![image](https://github.com/setagaya1/REST-API-handson/assets/136170263/1154ea41-c403-4eef-a9a7-fa955d4aefcf)
-*（ここまで）*
+**（ここまで）**
