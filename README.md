@@ -21,7 +21,7 @@ REST-APIの[handson](https://github.com/raisetech-for-student/rest-api-handson)�
 ## PATCHリクエスト
 - postmanにて「blog02」リポジトリの名前等の変更（「hello-world-blog02」へ変更）に成功しました。  
 （POSTリクエスト同様にGitBushにてcurlコマンドで「blog」リポジトリの名前等の変更も成功しております。同様に割愛いたします）
--header抜粋
+- header抜粋
 ![image](https://github.com/setagaya1/REST-API-handson/assets/136170263/9f355202-6968-403b-9e8f-b305bf7fc119)
 - body抜粋
 ![image](https://github.com/setagaya1/REST-API-handson/assets/136170263/e26229be-237e-4ac7-af85-03c9214cc483)
